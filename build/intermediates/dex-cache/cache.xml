@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/benylwang/workspace/X5WebDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b48c8920a21922411c11df0cad599943c6011ca3">
+        <dex dex="/Users/benylwang/workspace/X5WebDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6785e6845d7fba5dfafe7b962bb01bf4a95267b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benylwang/workspace/X5WebDemo/app/libs/tbs_sdk_thirdapp_v3.1.0.1034_43100_sharewithdownload_obfs_20170301_182143.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f00d52294abe76de6168e4cb964536788bfd336">
+        <dex dex="/Users/benylwang/workspace/X5WebDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/tbs_sdk_thirdapp_v3.1.0.1034_43100_sharewithdownload_obfs_20170301_182143_5d04269d446cd785b59533fdc1e42126235ebe0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benylwang/workspace/X5WebDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/benylwang/workspace/X5WebDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_51282c35bcc53d1bceb3f6668e6c896d924d4562/classes.dex" />
+    </item>
+
+</items>

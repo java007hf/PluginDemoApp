@@ -1,0 +1,4 @@
+#Wed Nov 29 10:54:27 CST 2017
+base.0=/Users/benylwang/workspace/X5WebDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/tbs_sdk_thirdapp_v3.1.0.1034_43100_sharewithdownload_obfs_20170301_182143_5d04269d446cd785b59533fdc1e42126235ebe0b
+renamed.0=classes.dex
+file.0=/Users/benylwang/workspace/X5WebDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/tbs_sdk_thirdapp_v3.1.0.1034_43100_sharewithdownload_obfs_20170301_182143_5d04269d446cd785b59533fdc1e42126235ebe0b/classes.dex
