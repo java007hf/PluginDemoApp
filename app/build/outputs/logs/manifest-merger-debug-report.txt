@@ -109,12 +109,16 @@ ADDED from /Users/benylwang/workspace/X5WebDemo/app/src/main/AndroidManifest.xml
 		ADDED from /Users/benylwang/workspace/X5WebDemo/app/src/main/AndroidManifest.xml:54:13-74
 	android:name
 		ADDED from /Users/benylwang/workspace/X5WebDemo/app/src/main/AndroidManifest.xml:53:13-41
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+com.example.test_webview_demo.MainActivity
 ADDED from /Users/benylwang/workspace/X5WebDemo/app/src/main/AndroidManifest.xml:55:13-59:29
 action#android.intent.action.MAIN
 ADDED from /Users/benylwang/workspace/X5WebDemo/app/src/main/AndroidManifest.xml:56:17-69
 	android:name
 		ADDED from /Users/benylwang/workspace/X5WebDemo/app/src/main/AndroidManifest.xml:56:25-66
+action#com.example.test_webview_demo.MainActivity
+ADDED from /Users/benylwang/workspace/X5WebDemo/app/src/main/AndroidManifest.xml:57:17-85
+	android:name
+		ADDED from /Users/benylwang/workspace/X5WebDemo/app/src/main/AndroidManifest.xml:57:25-82
 category#android.intent.category.LAUNCHER
 ADDED from /Users/benylwang/workspace/X5WebDemo/app/src/main/AndroidManifest.xml:58:17-77
 	android:name
